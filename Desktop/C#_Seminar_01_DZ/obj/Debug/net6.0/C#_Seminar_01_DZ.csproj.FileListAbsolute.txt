@@ -1,0 +1,15 @@
+/Users/julia/Desktop/C#_Seminar_01_DZ/bin/Debug/net6.0/C#_Seminar_01_DZ
+/Users/julia/Desktop/C#_Seminar_01_DZ/bin/Debug/net6.0/C#_Seminar_01_DZ.deps.json
+/Users/julia/Desktop/C#_Seminar_01_DZ/bin/Debug/net6.0/C#_Seminar_01_DZ.runtimeconfig.json
+/Users/julia/Desktop/C#_Seminar_01_DZ/bin/Debug/net6.0/C#_Seminar_01_DZ.dll
+/Users/julia/Desktop/C#_Seminar_01_DZ/bin/Debug/net6.0/C#_Seminar_01_DZ.pdb
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.csproj.AssemblyReference.cache
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.AssemblyInfoInputs.cache
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.AssemblyInfo.cs
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.csproj.CoreCompileInputs.cache
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.dll
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/refint/C#_Seminar_01_DZ.dll
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.pdb
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/C#_Seminar_01_DZ.genruntimeconfig.cache
+/Users/julia/Desktop/C#_Seminar_01_DZ/obj/Debug/net6.0/ref/C#_Seminar_01_DZ.dll
